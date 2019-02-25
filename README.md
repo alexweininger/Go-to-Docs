@@ -1,4 +1,4 @@
-# go-to-docs README
+# Go to Docs
 
 This is the README for your extension "go-to-docs". After writing up a brief description, we recommend including the following sections.
 
