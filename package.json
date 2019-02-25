@@ -7,7 +7,7 @@
 		"vscode": "^1.31.0"
 	},
 	"repository": "https://github.com/alexweininger/Go-to-Docs.git",
-	"icon":"./resources/img/icon.png",
+	"icon":"https://raw.githubusercontent.com/alexweininger/Go-to-Docs/master/resources/img/iocn.png",
 	"categories": [
 		"Other"
 	],
