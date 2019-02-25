@@ -1,31 +1,32 @@
+<h1 align="center">
+  <br>
+    <img src="https://github.com/alexweininger/vscode-browser-preview/blob/master/resources/img/icon.png?raw=true" alt="logo" width="100">
+  <br>
+  Go to Docs for VS Code
+  <br>
+  <br>
+</h1>
+
 # Go to Docs
 
 This is the README for your extension "go-to-docs". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
 For example if there is an image subfolder under your extension project workspace:
 
-![gotodocs](https://github.com/alexweininger/Go-to-Docs/blob/master/resources/gifs/gotodocs_command.gif)
+![Go to docs](https://github.com/alexweininger/Go-to-Docs/blob/master/resources/gifs/gotodocs_command.gif)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+> Easily navigate to language documentation.
 
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+![status bar](https://github.com/alexweininger/Go-to-Docs/blob/master/resources/img/statusbar.jpg)
+> Status Bar button also opens language documentation.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
 This extension contributes the following settings:
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+* `docs.languageConfig`: configure custom documentation links for languages
 
 ## Known Issues
 
@@ -37,15 +38,7 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Initial release of Go to Docs!
 
 -----------------------------------------------------------------------------------------------------------
 
